@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 17
+VisualStudioVersion = 17.11.35201.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitlabListner", "GitlabListner\GitlabListner.csproj", "{8891DE77-BC25-4AB4-9488-F18A89AA697F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitlabClient.Models", "GitlabClient.Models\GitlabClient.Models.csproj", "{4166983E-5984-40F0-8538-137F6C7C2F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8891DE77-BC25-4AB4-9488-F18A89AA697F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8891DE77-BC25-4AB4-9488-F18A89AA697F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8891DE77-BC25-4AB4-9488-F18A89AA697F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8891DE77-BC25-4AB4-9488-F18A89AA697F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4166983E-5984-40F0-8538-137F6C7C2F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4166983E-5984-40F0-8538-137F6C7C2F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4166983E-5984-40F0-8538-137F6C7C2F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4166983E-5984-40F0-8538-137F6C7C2F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6894B708-4867-49A9-B3C2-1525F92381E5}
+	EndGlobalSection
+EndGlobal
