@@ -1,9 +1,0 @@
-C:\Users\msang.MADHAV\source\repos\GitlabListner\GitlabClient.Models\bin\Debug\GitlabClient.Models.dll
-C:\Users\msang.MADHAV\source\repos\GitlabListner\GitlabClient.Models\bin\Debug\GitlabClient.Models.pdb
-C:\Users\msang.MADHAV\source\repos\GitlabListner\GitlabClient.Models\bin\Debug\Newtonsoft.Json.dll
-C:\Users\msang.MADHAV\source\repos\GitlabListner\GitlabClient.Models\bin\Debug\Newtonsoft.Json.xml
-C:\Users\msang.MADHAV\source\repos\GitlabListner\GitlabClient.Models\obj\Debug\GitlabClient.Models.csproj.AssemblyReference.cache
-C:\Users\msang.MADHAV\source\repos\GitlabListner\GitlabClient.Models\obj\Debug\GitlabClient.Models.csproj.CoreCompileInputs.cache
-C:\Users\msang.MADHAV\source\repos\GitlabListner\GitlabClient.Models\obj\Debug\GitlabCl.D46BCC79.Up2Date
-C:\Users\msang.MADHAV\source\repos\GitlabListner\GitlabClient.Models\obj\Debug\GitlabClient.Models.dll
-C:\Users\msang.MADHAV\source\repos\GitlabListner\GitlabClient.Models\obj\Debug\GitlabClient.Models.pdb
